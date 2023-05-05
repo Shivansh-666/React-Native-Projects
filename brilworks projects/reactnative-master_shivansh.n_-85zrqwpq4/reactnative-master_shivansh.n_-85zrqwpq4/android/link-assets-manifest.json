@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/Fonts/ShadowsIntoLight-Regular.ttf",
+      "sha1": "e512d65b44398e83907215402d477643751c1dfa"
+    },
+    {
+      "path": "src/Assets/Fonts/PTSansNarrow-Bold.ttf",
+      "sha1": "9750e5ba31ba702d9f76d3ca613bc3b04ce3f34c"
+    },
+    {
+      "path": "src/Assets/Fonts/PTSansNarrow-Regular.ttf",
+      "sha1": "a82b8549a78cbd2b01047a818bbd42d713f86431"
+    },
+    {
+      "path": "src/Assets/Fonts/Nabla-Regular.ttf",
+      "sha1": "141ace7e64266be3c85c8fbd56ae193fcab56acb"
+    },
+    {
+      "path": "src/Assets/Fonts/Nabla-cool.ttf",
+      "sha1": "58930a217baa5bbd5777004832507bab8e275607"
+    }
+  ]
+}
